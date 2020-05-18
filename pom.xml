@@ -18,6 +18,8 @@
     
     <modules>
         <module>../pegacorn-ladon-edge</module>
+        <module>../pegacorn-ladon-twin</module>
+        <module>../pegacorn-ladon-dtcache</module>
     </modules>
     
     <name>Pegacorn :: Ladon</name>
